@@ -3,4 +3,11 @@
 <html>
     <head></head>
     <body>It works</body> 
+</html<!-- index.html -->
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>It works</body>
 </html>
+~
+
